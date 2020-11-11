@@ -1,0 +1,13 @@
+p{
+    color: violet;
+}
+
+body{
+    background-color: teal;
+    text-align: center;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
